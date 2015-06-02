@@ -1,2 +1,2 @@
 # test-repo
-Test Repository
+A test repository for devops tools integration.
